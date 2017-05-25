@@ -1,7 +1,7 @@
 # YouTube-Playlist-Link-Collector
 Use script to collect the links in a YouTube playlist
 
-Format to run (without "<" and ">") : python YouTubePlaylistCollector <link to playlist>
+Format to run (without "<" and ">") : python YouTubePlaylistCollector \<link to playlist>
 
 Notes:
   - Script is made to run on shells like the windows command prompt, Git, linux shell, etc.

@@ -3,11 +3,11 @@ Use script to collect the links in a YouTube playlist
 
 Format to run (without "<" and ">"):
 
-	python YouTubePlaylistCollector.py \<link to playlist>
+	python YouTubePlaylistCollector.py <link to playlist>
 
 If you want the video titles and links (title above link format), run:
 
-	python YouTubePlaylistCollector.py \<link to playlist> --wt t	("wt" stands for "with title" & "t" for true)
+	python YouTubePlaylistCollector.py <link to playlist> --wt t	("wt" stands for "with title" & "t" for true)
 
 
 Notes:

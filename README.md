@@ -1,5 +1,5 @@
 # YouTube-Playlist-Link-Collector
-Use script to collect the links in a YouTube playlist
+Use script to collect the links (or titles + links) in a YouTube playlist
 
 Format to run (without "<" and ">"):
 

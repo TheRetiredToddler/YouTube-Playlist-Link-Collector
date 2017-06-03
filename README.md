@@ -7,7 +7,7 @@ Format to run (without "<" and ">"):
 
 If you want the video titles and links (title above link format), run:
 
-	python collect.py <link to playlist> --wt t	("wt" stands for "with title" & "t" for true)
+	python collect.py <link to playlist> -wt	("wt" stands for "with title")
 
 
 Notes:
